@@ -17,6 +17,7 @@ Solution
     - 만약, k개를 넘기도록 한 숫자를 만났다면 l pointer를 움직여서 k개에서 줄어들 때 까지 움직여야 함.
 2. 결론적으로, 가장 많이 나온 길이 maxLen을 출력해준다.
 */
+
 public class Boj21921 {
 
 	public static void main(String[] args) throws IOException{
