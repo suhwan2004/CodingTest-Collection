@@ -4,7 +4,7 @@ import java.util.*;
 import java.lang.*;
 import java.util.Map.Entry;
 
-class Solution
+class SWEA1204
 {
 	public static void main(String args[]) throws Exception
 	{

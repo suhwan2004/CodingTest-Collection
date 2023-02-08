@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.Scanner;
 import java.io.FileInputStream;
  
-class Solution
+class SWEA1959
 {
     static int findMaxValue(int [] maxArr, int [] minArr){
         int curMaxVal = Integer.MIN_VALUE;

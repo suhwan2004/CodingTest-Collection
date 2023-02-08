@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.io.FileInputStream;
 
 
-class Solution
+class SWEA1209
 {
 	public static void main(String args[]) throws Exception
 	{

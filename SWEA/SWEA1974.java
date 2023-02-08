@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.Scanner;
 import java.io.FileInputStream;
  
-class Solution
+class SWEA1974
 {
     public static void main(String args[]) throws Exception
     {
