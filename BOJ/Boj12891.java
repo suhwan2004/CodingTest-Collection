@@ -1,5 +1,3 @@
-package 김수환;
-
 //필요한 패키지 import
 import java.util.*;
 import java.io.*;
@@ -18,7 +16,8 @@ import java.io.*;
  * DS : Array, HashMap
  * 
  */
-public class A019_BJ12891_DNA비밀번호 {
+
+public class Boj12891 {
 	static String[] DnaArr; //Dna 문자열을 저장할 배열
 	static Map<String, Integer> map; //필수로 들어가야할, ACGT의 갯수를 넣을 hashmap
 	static int totalCount = 0; // 만들어질 수 있는 문자열 갯수

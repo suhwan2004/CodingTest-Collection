@@ -1,5 +1,3 @@
-package 김수환;
-
 import java.io.*;
 
 /*
@@ -14,7 +12,7 @@ import java.io.*;
  * ALGO : DFS, for
  * DS : String
  */
-public class A020_BJ2023_신기한소수 {
+public class Boj2023 {
 	static int degree; //입력받을 자릿
 	static StringBuilder sb = new StringBuilder();
 	public static void main(String[] args) throws IOException {

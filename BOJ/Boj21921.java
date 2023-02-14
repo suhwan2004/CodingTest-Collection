@@ -13,8 +13,9 @@ Solution
 3. maxVal이 0이면 갱신이 없기에 SAD를 출력한다. 그게 아니라면, 정상적으로 maxVal과 hashMap.get(maxVal)을 출력한다.
 */
 
+import java.util.*;
+import java.io.*;
 public class Boj21921{
-    public static void main(String[] args){
         public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int totalDay = sc.nextInt();

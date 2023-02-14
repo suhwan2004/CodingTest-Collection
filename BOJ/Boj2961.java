@@ -16,7 +16,7 @@ import java.io.*;
  * DS : array, String
  */
 
-public class A018_BJ2961_도영이가만든맛있는음식 {
+public class Boj2961 {
 	static int min = Integer.MAX_VALUE; //신, 쓴 재료들의 가장 적은 차이
 	static int[][] stuffs; // [신, 쓴] 쌍의 재료를 담는 이차원배열
 	static boolean[] isSelected; // 각 쌍의 재료set을 음식에 넣었는지 안 넣었는지를 저장하는 배열

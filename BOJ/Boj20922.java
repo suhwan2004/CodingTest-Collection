@@ -1,8 +1,5 @@
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 /*
 https://www.acmicpc.net/problem/20922
@@ -18,7 +15,7 @@ Solution
 2. 결론적으로, 가장 많이 나온 길이 maxLen을 출력해준다.
 */
 
-public class Boj21921 {
+public class Boj20922 {
 
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -20,7 +20,7 @@ import java.util.*;
    DS : array, string
  */
 
-public class BJ11659 {
+public class Boj11659 {
 	static int N, M; // 숫자 배열의 수, 구해야 하는 문제 수
 	static int[] arr; // 숫자 배열
 	static int[] sumArr; // 숫자 배열의 인덱스 별로 누적합을 저장할 정수형 배열

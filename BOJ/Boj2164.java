@@ -1,5 +1,3 @@
-package 김수환;
-
 //필요한 패키지 import
 import java.io.*;
 import java.util.*;
@@ -19,7 +17,7 @@ import java.util.*;
  * DS : Deque, array, string
  * 
  */
-public class A026_BJ2164_카드2_과제4 {
+public class Boj2164 {
 	public static void main(String[] args) throws IOException{
 		// TODO Auto-generated method stub
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
