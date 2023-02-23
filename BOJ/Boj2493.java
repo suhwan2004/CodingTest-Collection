@@ -5,7 +5,6 @@ import java.util.*;
 
 public class Boj2493 {
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); // 입력을 위한 BufferedReader 인스턴스 생성
 		int len = Integer.parseInt(br.readLine()); // 입력받을 정수배열의 길이 입력받
 		int[] input = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray(); //입력받은 문자열을 정수배열로 변환함.
